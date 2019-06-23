@@ -1,0 +1,29 @@
+DULO
+
+self.pos_distance_features_f, self.pos_distance_features_b - 75%
+Xpos1, Xpos2 - 70%
+Xlemma, Xtrans.toarray - 89%
+
+Xlemma, Xtrans.toarray(), self.pos_distance_features_f, self.pos_distance_features_b - 72%
+Xlemma, self.pos_distance_features_f, self.pos_distance_features_b - 71%
+
+Xtrans.toarray(), self.pos_distance_features_f, self.pos_distance_features_b - 70%
+
+Xpos2,  self.pos_distance_features_f, self.pos_distance_features_b - 71%
+
+Xpos1, Xpos2, Xlemma - 85%
+
+
+Xlemma, Xtrans.toarray, Xpos1 - 85%
+Xlemma, Xtrans.toarray, Xpos2 - 92%
+
+Xlemma, Xtrans.toarray, self.pos_distance_features_f - 70%
+Xlemma, Xtrans.toarray, self.pos_distance_features_b - 86%
+
+Xtrans.toarray, Xpos2 - 89%
+Xtrans.toarray, Xpos2, self.pos_distance_features_b - 91%
+Xtrans.toarray, Xpos2, self.pos_distance_features_b, Xlemma - 93%
+
+Xtrans.toarray, Xpos1, self.pos_distance_features_b, Xlemma - 88%
+
+Xtrans.toarray, Xpos2, self.pos_distance_features_f, Xlemma - 71%
